@@ -19,4 +19,4 @@ Repositório dedicado às Atas relativas às reunioes dos **EmbaixaTrybers** da 
 -----
 
 ## ATAS:
-
+ * Reunião do dia 17/04/2023 - Definição dos nomes a serem votados como nome oficial da Turma 31
