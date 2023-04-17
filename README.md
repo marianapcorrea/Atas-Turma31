@@ -5,7 +5,7 @@ Repositório dedicado às Atas relativas às reunioes dos **EmbaixaTrybers** da 
 
  -----
  
-## Embaixadores:
+## EmbaixaTrybers:
 
  ### **Trybo A:**
 * Guilherme Gatti  [LinkedIn](https://www.linkedin.com/in/guilhermegattimarinho/) [GitHub](https://github.com/guilhermegattimarinho)
