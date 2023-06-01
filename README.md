@@ -25,3 +25,4 @@ Repositório dedicado às Atas relativas às reunioes dos **EmbaixaTrybers** da 
  * [Reunião do dia 11/05/2023 - Alinhamentos à respeito do acolhimento de alunos oriundos de outras turmas, selo **Dev Camarada** e aulões](https://github.com/marianapcorrea/Atas-Turma31/blob/master/11-05-23.md)
  * [Reunião do dia 15/05/2023 - Alinhamentos à respeito de programa de acolhimento de alunos oriundos de outras turmas, formulário para sugestão de temas de aulão e escolha do modelo do selo **Dev Camarada**](https://github.com/marianapcorrea/Atas-Turma31/blob/master/15-05-23.md)
  * [Reunião do dia 22/05/2023 - Alinhamentos à respeito de *feedbaks* recebidos e criação de formulários](https://github.com/marianapcorrea/Atas-Turma31/blob/master/22-05-23.md)
+ * [Reunião do dia 30/05/2023 - Alinhamentos à respeito de aulões e divulgação dos formulários](https://github.com/marianapcorrea/Atas-Turma31/blob/master/30-05-23.md)
