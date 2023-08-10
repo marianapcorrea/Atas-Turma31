@@ -10,13 +10,15 @@ Repositório dedicado às Atas relativas às reunioes dos **EmbaixaTrybers** da 
  ### **Trybo A:**
 * Guilherme Gatti  [LinkedIn](https://www.linkedin.com/in/guilhermegattimarinho/) [GitHub](https://github.com/guilhermegattimarinho)
 * Emerson Ferreira  [LinkedIn](linkedin.com/in/emersonfbarros/) [GitHub](https://github.com/emersonfbarros)
+
     
 * ~Vitor Luigi [LinkedIn](https://www.linkedin.com/in/vitorluigidev/) [GitHub](https://github.com/vitorluigif)~(Abril a Julho de 2023)
 
  ### **Trybo B:**
 * Mariana de Paula  [LinkedIn](https://www.linkedin.com/in/marianapcorrea/) [GitHub](https://github.com/marianapcorrea)
 * Lira Guedes  [LinkedIn](https://www.linkedin.com/in/lira-raj%C3%A3o-guedes-146122196/) [GitHub](https://github.com/Lira-guedes)
-* 
+
+  
 * ~Leonardo Gonçalves [LinkedIn](https://www.linkedin.com/in/leobacamarte/) [GitHub](https://github.com/Leobacamarte)~(Abril a Julho de 2023)
 
 -----
