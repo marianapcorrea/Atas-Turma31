@@ -9,12 +9,15 @@ Repositório dedicado às Atas relativas às reunioes dos **EmbaixaTrybers** da 
 
  ### **Trybo A:**
 * Guilherme Gatti  [LinkedIn](https://www.linkedin.com/in/guilhermegattimarinho/) [GitHub](https://github.com/guilhermegattimarinho)
+* Emerson Ferreira  [LinkedIn](linkedin.com/in/emersonfbarros/) [GitHub](https://github.com/emersonfbarros)
     
-* Vitor Luigi [LinkedIn](https://www.linkedin.com/in/vitorluigidev/) [GitHub](https://github.com/vitorluigif)
+* ~Vitor Luigi [LinkedIn](https://www.linkedin.com/in/vitorluigidev/) [GitHub](https://github.com/vitorluigif)~(Abril a Julho de 2023)
 
  ### **Trybo B:**
-* Leonardo Gonçalves [LinkedIn](https://www.linkedin.com/in/leobacamarte/) [GitHub](https://github.com/Leobacamarte)
 * Mariana de Paula  [LinkedIn](https://www.linkedin.com/in/marianapcorrea/) [GitHub](https://github.com/marianapcorrea)
+* Lira Guedes  [LinkedIn](https://www.linkedin.com/in/lira-raj%C3%A3o-guedes-146122196/) [GitHub](https://github.com/Lira-guedes)
+* 
+* ~Leonardo Gonçalves [LinkedIn](https://www.linkedin.com/in/leobacamarte/) [GitHub](https://github.com/Leobacamarte)~(Abril a Julho de 2023)
 
 -----
 
@@ -26,3 +29,4 @@ Repositório dedicado às Atas relativas às reunioes dos **EmbaixaTrybers** da 
  * [Reunião do dia 15/05/2023 - Alinhamentos à respeito de programa de acolhimento de alunos oriundos de outras turmas, formulário para sugestão de temas de aulão e escolha do modelo do selo **Dev Camarada**](https://github.com/marianapcorrea/Atas-Turma31/blob/master/15-05-23.md)
  * [Reunião do dia 22/05/2023 - Alinhamentos à respeito de *feedbaks* recebidos e criação de formulários](https://github.com/marianapcorrea/Atas-Turma31/blob/master/22-05-23.md)
  * [Reunião do dia 30/05/2023 - Alinhamentos à respeito de aulões e divulgação dos formulários](https://github.com/marianapcorrea/Atas-Turma31/blob/master/30-05-23.md)
+ * [Reunião do dia 09/08/2023 - Apresentação de projetos em andamento para os novos Embaixas](https://github.com/marianapcorrea/Atas-Turma31/blob/master/09-08-23.md)
