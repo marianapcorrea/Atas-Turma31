@@ -32,5 +32,5 @@ Repositório dedicado às Atas relativas às reunioes dos **EmbaixaTrybers** da 
  * [Reunião do dia 22/05/2023 - Alinhamentos à respeito de *feedbaks* recebidos e criação de formulários](https://github.com/marianapcorrea/Atas-Turma31/blob/master/22-05-23.md)
  * [Reunião do dia 30/05/2023 - Alinhamentos à respeito de aulões e divulgação dos formulários](https://github.com/marianapcorrea/Atas-Turma31/blob/master/30-05-23.md)
  * [Reunião do dia 09/08/2023 - Apresentação de projetos em andamento para os novos Embaixas](https://github.com/marianapcorrea/Atas-Turma31/blob/master/09-08-23.md)
- * [Reunião do dia 14/08/2023 - Alinhamento sobre Mesa-redonda com Devs e insights sobre Clube do Livro](https://github.com/marianapcorrea/Atas-Turma31/blob/master/14-08-2023.md)
+ * [Reunião do dia 14/08/2023 - Alinhamento sobre Mesa-redonda com Devs e insights sobre Clube do Livro](https://github.com/marianapcorrea/Atas-Turma31/blob/master/14-08-23.md)
    
