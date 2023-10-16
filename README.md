@@ -37,3 +37,5 @@ Repositório dedicado às Atas relativas às reunioes dos **EmbaixaTrybers** da 
  * [Reunião do dia 29/08/2023 - Alinhamentos sobre programas em execução e a serem iniciados (Clube do Livro) e planejados (Backend de projetos antigos e Linkedin)](https://github.com/marianapcorrea/Atas-Turma31/blob/master/29-08-23.md)
  * [Reunião do dia 13/09/2023 - Proposta de mudança de horário do Clube do Livro) e alinhamentos sobre Buddy e Dev Camarada](https://github.com/marianapcorrea/Atas-Turma31/blob/master/13-09-23.md)
  *  [Reunião do dia 20/09/2023 - Confirmação do novo horário do Clube do Livro) e alinhamentos projeto de Linkedin e conversa com profissional](https://github.com/marianapcorrea/Atas-Turma31/blob/master/20-09-23.md)
+ *  [Reunião do dia 11/10/2023 - Alinhamentos sobre fim do programa de Embaixas](https://github.com/marianapcorrea/Atas-Turma31/blob/master/11-10-23.md)
+
